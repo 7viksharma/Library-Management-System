@@ -1,2 +1,2 @@
 # Library-Management-System
-Library management System app using JAVA and MySQL database.
+Library management System app using JAVA and MySQL database and workbench.
